@@ -6,12 +6,12 @@
         2: function(t, e) {
             t.exports = {
                 github: {
-                    username: "ardaweb",
+                    username: "CAF-ID",
                     sortBy: "updated",
                     limit: 18,
                     exclude: {
                         forks: !0,
-                        projects: ["ardaweb", "dekompel"]
+                        projects: ["caf", "dekompel"]
                     }
                 },
                 social: {
@@ -22,20 +22,20 @@
                     behance: "",
                     medium: "",
                     devto: "",
-                    website: "https://wa.me/6282363250061",
-                    phone: "+6282363250061",
-                    email: "ardastore9@gmail.com"
+                    website: "https://wa.me/6283167714830",
+                    phone: "+6283167714830",
+                    email: "arulcaf@gmail.com"
                 },
-                skills: ["pemula sih cuman tau dikit","Const", "Case", "Node.js", "Scrape"],
+                skills: ["pemula sih cuman tau dikit", "Node.js", "Javascript", "Java"],
                 experiences: [
                               {
-                  company: 'Sumatra Utara',
+                  company: 'Sumatra Barat',
                   position: 'Harapan memang tak selalu membahagiakan dan bisa menyakitkan. Namun, dengan harapan kamu punya semangat untuk berjuang tanpa henti.',
                   from: '10 Mei',
                   to: '2000'
                 },
                                               {
-                  company: 'Sumatra Utara',
+                  company: 'Sumatra Barat',
                   position: 'cape juga ya cuma bisa kagum sama dia tapi ga bisa milikin.',
                   from: '10 Mei',
                   to: '2000'
